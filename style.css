@@ -19,10 +19,12 @@ h1{
     text-align: center;
 }  
 
-a:hover {
+.a:hover {
 background-color: gold;
 }
-
+.a-txt:hover{
+    opacity:1;
+  }
 
 
 
