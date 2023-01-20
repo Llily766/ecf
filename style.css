@@ -16,18 +16,10 @@ label {
 h1{
     text-align: center;
 }  
-
-.a:hover {
-background-color: gold;
-}
-.a-txt:hover{
-    opacity:1;
+ 
+image 4{
+    position: relative;
   }
-h3 {
-    background-color: black;
+    
 }
-.image4{
-    position: top;
-}
-
 
