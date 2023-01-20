@@ -5,8 +5,6 @@ form.form-example {
 div.form-example {
     display: table-row;
 }
-
-label,
 input {
     display: table-cell;
     margin-bottom: 10px;
@@ -25,7 +23,11 @@ background-color: gold;
 .a-txt:hover{
     opacity:1;
   }
-
-
+h3 {
+    background-color: black;
+}
+.image4{
+    position: top;
+}
 
 
