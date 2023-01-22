@@ -16,4 +16,6 @@ label {
 h1{
     text-align: center;
 }
-   
+img {
+    opacity: 0.5;
+    }
