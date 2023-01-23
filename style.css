@@ -18,5 +18,11 @@ h1{
 }
 img {
     opacity: 0.5;
-    
-    }
+ }
+
+image 6{
+    position :relative;
+}
+text {
+    position : absolute
+}
