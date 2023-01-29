@@ -25,13 +25,14 @@ text {
 .menu-cards p{
     margin-top: -10%
 
-}
-a:hover {
-    background-color: gold;
   }
  button{
     text-align: right;
  } 
+ img{
+    position:relative
+ }
+
 
 
 
