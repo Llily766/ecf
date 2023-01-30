@@ -20,7 +20,8 @@ img {
     opacity: 0.5;
 }
 text {
-    position : absolute
+    position :  relative;
+
 }
 .menu-cards p{
     margin-top: -15%
@@ -35,7 +36,7 @@ text {
 .LE QUAI ANTIQUE {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-.prix :16,50€{
+.prix :{
 background-color: blue;
 }
 
