@@ -25,14 +25,19 @@ text {
 .menu-cards p{
     margin-top: -15%
 
-  }
+}
  button{
     text-align: right;
- } 
+} 
  img{
     position:relative
- }
-
+}
+.LE QUAI ANTIQUE {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.prix :16,50€{
+background-color: blue;
+}
 
 
 
