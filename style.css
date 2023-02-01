@@ -30,7 +30,7 @@ text {
  button{
     text-align: right;
 } 
- img{
+.img{
     position:relative
 }
 .LEQUAIANTIQUE {
@@ -38,9 +38,6 @@ text {
 }
 .prix {
 background-color: rgb(255, 255, 0);
-}
-
-
 
 
 
