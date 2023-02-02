@@ -9,11 +9,15 @@ input {
     display: table-cell;
     margin-bottom: 10px;
 }
+img{
+    opacity: 0.5;
+}
 
+.box {
+    display: flex;
+  }
 
-
-
-
+  
 
 
  

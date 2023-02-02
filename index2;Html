@@ -36,12 +36,36 @@
     <img src="images/image1.jpg">
     <p>Noix de Saint-Jacques</p>
 </div>
-
-
+<div class="menu-cards">
+    <img src="images/image2.jpg">
+    <p>Plat de viande sur un lit de légumes</p>
+</div>
+<div class="menu-cards">
+    <img src="images/image3.jpg">
+    <p>Viande de boeuf et légumes</p>
+</div>
+    </div>
+    <div class="menu-cards">
+        <img src="images/IMAGE4.jpg">
+        <p>Cuisine indienne</p>
+    </div>
+    <div class="menu-cards">
+        <img src="images/Image5.jpg">
+        <p>Saumon aux asperges</p>
+    </div>    
+    <div class="menu-cards">
+        <img src="images/Image6.jpg">
+        <p>Plats de crevettes sur une assiette</p>
     </div>
 
-
-      
+    <div class="box">
+        <div>image1</div>
+        <div>image2</div>
+        <div>image3</div>
+        <div>image4</div>
+        <div>Image5</div>
+        <div>image6</div>
+          
 
 
 
