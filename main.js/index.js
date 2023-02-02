@@ -21,7 +21,7 @@
       <input type="Allergies" name="Allergies" id="Allergies" required />
       </div>   
 
-<input type="submit" value="RESERVER" >
+<input type="submit" value="RESERVER"/>
     </form>
 
 

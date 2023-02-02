@@ -1,0 +1,4 @@
+Le chevauchement est du au fait que vous avez oublié de fermer une <div>.
+<div class="menu-cards">
+        <img src="images/image3.jpg">
+ </div>
