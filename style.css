@@ -13,10 +13,17 @@ img{
     opacity: 0.5;
 }
 
+.container {
+    display: flex;
+}
+  LEQUAIANTIQUE {
+    background-color: rgb(126, 38, 38);
 
-  
-
-
+}
+h2{
+    background-color: rgb(246, 255, 127);
+    color: rgb(255, 0, 0);
+}
  
     
 
