@@ -31,10 +31,10 @@
       <button class="favorite styled"
       type="button">Reservation</button> 
       
-      
 <div class="menu-cards">
     <img src="images/image1.jpg">
     <p>Noix de Saint-Jacques</p>
+    
 </div>
 <div class="menu-cards">
     <img src="images/image2.jpg">
@@ -83,5 +83,12 @@
 
 
 
+    
+    
+    <h4>Horaires d'\ouverture
+        Du Lundi au Vendredi:
+         12h/12h15/12h30/12h45/13h/13h30/13h45/14h
+        Le Samedi : 10h à 21h 
+        Le Dimanche : fermé</h4>
 </body>
 </html>
