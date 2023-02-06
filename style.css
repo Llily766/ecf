@@ -16,17 +16,17 @@ img{
 
 
 
-LEQUAIANTIQUE {
+.LEQUAIANTIQUE {
     background-color: rgb(126, 38, 38);
 
 }
-h2{
-    
+.h2{
     color: rgb(255, 0, 0);
+    text-align: center;
 }    
 p{
-    color : rgba(14, 14, 19, 0.908)
-
+font-family: "Trebuchet MS", Verdana, sans-serif; 
+color:black
 }
 h3{
 align-items: center;
@@ -35,11 +35,16 @@ color:rgba(24, 25, 24, 0.654)
 MENU{
     align-items: center;
 } 
-Connexion{
+.Connexion{
 
    
 }
 
+.Formules{
+    text-align: center;
+    
+
+}
 
 
 
