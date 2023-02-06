@@ -33,7 +33,7 @@ align-items: center;
 color:rgba(24, 25, 24, 0.654)
 } 
 MENU{
-    align-items: center;
+    text-align: center;
 } 
 .Connexion{
 
@@ -41,9 +41,7 @@ MENU{
 }
 
 .Formules{
-    text-align: center;
-    
-
+    text-align :center;
 }
 
 
