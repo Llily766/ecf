@@ -28,7 +28,7 @@ p{
 font-family: "Trebuchet MS", Verdana, sans-serif; 
 color:black
 }
-h3{
+.h3{
 align-items: center;
 color:rgba(24, 25, 24, 0.654)
 } 
@@ -42,6 +42,7 @@ MENU{
 
 .Formules{
     text-align :center;
+
 }
 
 
