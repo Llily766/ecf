@@ -1,6 +1,7 @@
 
-let place disponible = 's'asseoir';
-if (place disponible === 's'asseoir') {
+let spaceavailable = 'sit';
+if (spaceavailable === 'sit') {
+
   alert("Patientez!");
 } else {
   alert("Attente de la table.");

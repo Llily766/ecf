@@ -14,9 +14,8 @@ img{
     position:relative
 }
 
-LEQUAIANTIQUE {
+.LEQUAIANTIQUE {
     background-color: rgb(126, 38, 38);
-
 }
 h2{
     color: rgb(255, 0, 0);
@@ -30,12 +29,12 @@ h3{
     test-align: center;
     color:rgba(68, 185, 146, 0.531)
 } 
-MENU{
+.MENU{
     text-align: center;
     color:red
 } 
 
-Formules{
+.Formules{
     text-align :center;
     color :rgb(255, 0, 0)
     font-family:"Trebuchet MS", Verdana, sans-serif; "
