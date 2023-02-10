@@ -22,29 +22,24 @@ h2{
     text-align: center;
 }    
 p{
-font-family:pacifico
-color:black
+font-family:pacifico;
+color:black;
 }
 h3{
-    test-align: center;
-    color:rgba(68, 185, 146, 0.531)
+    text-align: center;
+    color:rgba(36, 86, 69, 0.531)
 } 
 .MENU{
     text-align: center;
-    color:red
+    color:rgba(255, 0, 0, 0.839)
 } 
 
 .Formules{
     text-align :center;
     color :rgb(255, 0, 0)
-    font-family:"Trebuchet MS", Verdana, sans-serif; "
+    font-family :"Trebuchet MS", Verdana, sans-serif";
 
 }
-.favoritestyled
-
-
-
-
-
-
- 
+.favoritestyled{
+    color: darkgreen;
+}
