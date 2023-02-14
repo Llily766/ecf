@@ -23,7 +23,7 @@ h2{
     text-align: center;
 }    
 p{
-font-family:pacifico;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 color:black;
 }
 h3{
@@ -43,4 +43,5 @@ h3{
 
 .favoritestyled{
     color: darkgreen;
+
 }
