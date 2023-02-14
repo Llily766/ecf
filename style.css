@@ -23,8 +23,8 @@ h2{
     text-align: center;
 }    
 p{
-font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
-color:black;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,
+    color: black;
 }
 h3{
     text-align: center;
@@ -38,7 +38,7 @@ h3{
 .Formules{
     text-align :center;
     color :rgb(255, 0, 0)
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .favoritestyled{
