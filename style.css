@@ -5,40 +5,45 @@ form.form-example {
 div.form-example {
     display: table-row;
 }
+
 input {
     display: table-cell;
     margin-bottom: 10px;
 }
-img{
+
+img {
     opacity: 0.5;
-    position:relative
+    position: relative
 }
 
 .LEQUAIANTIQUE {
     background-color: rgb(126, 38, 38);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,
+        color:black;
 }
-h2{
+
+h2 {
     color: rgb(255, 0, 0);
     text-align: center;
-}    
-p{
-font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,
-    color:black;
 }
-h3{
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,
+        color:black;
+}
+
+h3 {
     text-align: center;
-    color:rgba(36, 86, 69, 0.531)
-} 
-
-
-.Formules{
-    text-align :center;
-    color :rgb(255, 0, 0)
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(36, 86, 69, 0.531)
 }
 
-.favoritestyled{
+
+.Formules {
+    text-align: center;
+    color: rgb(255, 0, 0) font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.favoritestyled {
     color: darkgreen;
 
 }
