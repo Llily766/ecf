@@ -2,6 +2,14 @@ form.form-example {
     display: table;
 }
 
+.fond {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./images/Image8.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 div.form-example {
     display: table-row;
 }
@@ -17,9 +25,9 @@ img {
 }
 
 .LEQUAIANTIQUE {
-    background-color: rgb(126, 38, 38);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,
-        color:black;
+    background-color: rgb(189, 38, 38);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
 }
 
 h2 {
@@ -40,7 +48,7 @@ h3 {
 
 .Formules {
     text-align: center;
-    color: rgb(255, 0, 0) font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(11, 43, 21) font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .favoritestyled {

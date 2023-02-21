@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Document</title>
-<link rel="stylesheet" href="style.css" />
-</head>
-
-<div class="fond">
-    <button class="favoritestyled" type="button">
-        <h3>Connexion</h3>
-    </button>
-    <h1 class="LEQUAIANTIQUE">LE QUAI ANTIQUE</h1>
-</div>
-
-
+ <h2>Quelques plats à la carte</h2>
 <div class="menu-cards">
     <img src="images/image1.jpg">
     <p>Noix de Saint-Jacques</p>
@@ -42,6 +25,28 @@
         <img src="images/Image6.jpg">
         <p>Plats de crevettes sur une assiette</p>
     </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
     
     <button class="favoritestyled" type="button">
         <h3>Réservation</h3>
@@ -54,6 +59,3 @@ le soir:19h à 20h30
         Le Dimanche : fermé</h4>
 </body>
 </html>
-
-
-
